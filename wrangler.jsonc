@@ -1,0 +1,10 @@
+{
+  "name": "coding-buddy",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-11-19",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application"
+  }
+}
